@@ -1,14 +1,14 @@
 ### Sensores portátiles integrados con selectividad de flexión y sensibilidad mejorada para la derivación del conductor iónico
-Acuña Herrera Mario Alberto - 15210506
+<div style="text-align: center"> Acuña Herrera Mario Alberto - 15210506
 Hernández Gamboa José Luis – 12210384
 Laredo Pérez Gerardo Alberto Solís - 15210558
 Oceguera Fabela Daniel - 15210541
 Instituto Tecnológico de Tijuana, Departamento de Sistemas y Computación
 Tijuana, Baja California, México
-daniel.oceguera@tectijuana.edu.mx
+daniel.oceguera@tectijuana.edu.mx</div>
+
 
 **ABSTRAC**
-
 Multi-functional integrated sensing systems have attracted significant attentions for high demands in the areas of flexible and stretchable devices. Herein, a novel selective wearable sensor with bending/stretching force differentiation and superior signal performance is presented. NaCl doped agarose gel (NaCl@AG) is applied as the bio-compatible conductive filler with 3D printed elastomer shaper as the holding matrix for wearable sensors. AG possesses an interesting sol-gel transition property of which NaCl@AG (sol) can be shaped into various stereo-structures through 3D printed micro-channeled elastomer shapers coviniently. 3D printed microporous Copper electrodes were also introduced for enhanced bonding with the NaCl@AG for sensor robustness. Through the integration of both straight and spring channels inside one elastomer shaper, our 3D integrated wearable sensor displayed superior sensing performances as a large-strain sensor with extreme sensitivity (gauge factor of 17 at 500% strain) and capabilities of bending/stretching motion differentiations (selectivity factor of 75 for bending/stretching signals at 97° bend). It can hence simultaneously detect and classify the extent of stretching or bending motions precisely. Sensing mechanisms are found to derive from both the microscopic geometrical deformations of the NaCl@AG associated with the resistance law; and the nanoporous pore size changes of AG associated with ionic diffusions. Such performances cannot be obtained by other conductors under the same circumstances, i.e. NaCl (aq). Overall, this work introduces a new concept for high performing and multifunctional/selective sensors via the combination of bio-compatible materials and novel structural design.
 
 
@@ -42,9 +42,10 @@ Los electrodos Cu impresos en 3D [52] se insertaron en dos extremos del canal de
 
 Las pruebas de tracción se realizaron con las pruebas universales Lloyd Systems EZ-10 y de acuerdo con las normas ASTM para elastómeros. La transmisión de luz fue investigada usando un Espectrofotómetro 7000 UV-VIS-NIR junto a microscopio de electrones barridos. Los experimentos de reología fueron desempeñados por un reómetro híbrido de acuerdo a los métodos [13].
 La lectura de impedancia electroquímica fue capturada usando un analizador 1260A conectado a una interfaz dieléctrica para medir el rango de frecuencia desde 0.1 A 1 Mhz por debajo de una amplitud de voltaje de 0.1V y con la voltamperometría se ejecutó usando un Bio-Logic VMP3(Potenciostato) con electrodo de platino de cara paralela con separación de distancia de 1cm.
-
+**
 3. DISEÑO MATERIAL Y ESTRUCTURAL.
 3.1.1. Esquema de fabricación del sensor portátil integrado.
+
 Primero presentamos el esquema de fabricación de un sensor que consta de nuestras piezas de NaCl @ AG, moldeador de elastómero impreso en 3D y electrodo de Cu impreso en 3D (electrodo 3DP-Cu). Los moldeadores de elastómero microcanalizados se imprimieron a través de DLP utilizando nuestro material 2-CEA desarrollado (Fig. 1, Paso I). Luego se introdujo NaCl @ AG (sol) mediante inyección de jeringa en el moldeador de elastómero. El NaCl @ AG y el moldeador de elastómero extensible juntos forman el sensor compuesto polimérico 3D, con el moldeador de elastómero que actúa como material no conductor para encapsular y aislar el conductor iónico NaCl @ AG incorporado (Fig. 1, paso II). Los electrodos 3DPCu se insertaron inmediatamente en el moldeador para permitir su unión con el NaCl @ AG gelificado (Fig. 1, paso III). Finalmente, después de la gelificación completa del conductor iónico, la estructura general puede dar como resultado un sensor corporal mediante el cual se pueden detectar y retroalimentar movimientos como el estiramiento y la flexión (Fig. 1, paso IV). Además, tanto el conductor iónico como el moldeador de elastómero se pueden recuperar mediante lavado con agua caliente (95 ° C, ~ 15 min) debido al mecanismo de transición sol-gel termorreversible de AG (Fig. 1, paso V). En general, los sensores portátiles novedosos, eficientes, económicos y respetuosos con el medio ambiente con aplicaciones prometedoras en sistemas de detección multifuncionales / selectivos se pueden lograr convenientemente a través de este método. 
 
 
