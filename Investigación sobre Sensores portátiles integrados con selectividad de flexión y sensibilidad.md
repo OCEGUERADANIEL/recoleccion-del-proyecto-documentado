@@ -6,7 +6,7 @@ Laredo Pérez Gerardo Alberto Solís - 15210558
 Oceguera Fabela Daniel - 15210541
 Instituto Tecnológico de Tijuana, Departamento de Sistemas y Computación
 Tijuana, Baja California, México
-daniel.oceguera@tectijuana.edu.mx
+daniel.oceguera@tectijuana.edu.mx gerardo.solis@tectjuana.edu.mx, mario.acuna@tectijuana.edu.mx jose.hernandezg17@tectijuana.edu.mx
 
 
 **ABSTRAC**
@@ -55,6 +55,8 @@ La lectura de impedancia electroquímica fue capturada usando un analizador 1260
 Primero presentamos el esquema de fabricación de un sensor que consta de nuestras piezas de NaCl @ AG, moldeador de elastómero impreso en 3D y electrodo de Cu impreso en 3D (electrodo 3DP-Cu). Los moldeadores de elastómero microcanalizados se imprimieron a través de DLP utilizando nuestro material 2-CEA desarrollado (Fig. 1, Paso I). Luego se introdujo NaCl @ AG (sol) mediante inyección de jeringa en el moldeador de elastómero. El NaCl @ AG y el moldeador de elastómero extensible juntos forman el sensor compuesto polimérico 3D, con el moldeador de elastómero que actúa como material no conductor para encapsular y aislar el conductor iónico NaCl @ AG incorporado (Fig. 1, paso II). Los electrodos 3DPCu se insertaron inmediatamente en el moldeador para permitir su unión con el NaCl @ AG gelificado (Fig. 1, paso III). Finalmente, después de la gelificación completa del conductor iónico, la estructura general puede dar como resultado un sensor corporal mediante el cual se pueden detectar y retroalimentar movimientos como el estiramiento y la flexión (Fig. 1, paso IV). Además, tanto el conductor iónico como el moldeador de elastómero se pueden recuperar mediante lavado con agua caliente (95 ° C, ~ 15 min) debido al mecanismo de transición sol-gel termorreversible de AG (Fig. 1, paso V). En general, los sensores portátiles novedosos, eficientes, económicos y respetuosos con el medio ambiente con aplicaciones prometedoras en sistemas de detección multifuncionales / selectivos se pueden lograr convenientemente a través de este método. 
 
  ![alt text](https://github.com/OCEGUERADANIEL/recoleccion-del-proyecto-documentado/blob/master/1.png)
+ 
+ Fig. 1. Esquema de la fabricación del sensor portátil polimérico integrado en 3D.
 
 **3.1.2. Caracterización del conductor iónico basado en AG**
 
