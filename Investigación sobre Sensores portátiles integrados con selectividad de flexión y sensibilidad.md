@@ -28,15 +28,19 @@ Este trabajo abre una nueva estrategia para el uso de materiales fácilmente dis
 **2. SECCIÓN EXPERIMENTAL**
 
 **2.1 Materiales**:
+
 2-carboxiletil acrilato (2-CEA), que contiene 900–1100 ppm 4metoxofenol como inhibidor; diacrilato de polietilenglicol (PEGDA, Mw a 700 Da); difenilo (2, 4, 6-trimetilbenzoyl) óxido de fosfina (TPO); agarosa (tipo I, EEO baja); cloruro de sodio (NaCl); el azul de metileno y la rodamina B se obtuvieron de Sigma Aldrich. Todos los productos químicos eran de grado analítico y se utilizaban sin más purificaciones.
 
 **2.2 Preparación y estudios de materiales basados en AG**
+
 El NaCl saturado (aq) se preparó primero y se calentó a 97 oC. Un porcentaje de peso AG(1-wt%AG)(optimizado),se añadió entonces al NaCl caliente (aq) y posteriormente mezclado por un agitador magnético ligeramente (97 oC, 30 min) hasta que la solución se haya aclarado. La solución quedó clara. La solución de NaCl@AG caliente se utilizó inmediatamente para la inyección en formadores de elastómeros o para fines de escritura y moldeo. La concentración de gel se investigó utilizando una jeringa de 1 ml equipada con una aguja mediante escritura manual en un impreso2-CEA superficie. Las propiedades interfaciales de NaCl@AG(sol) y 3D impresos 2-CEA se estudiaron mediante mediciones de ángulo de contacto utilizando una jeringa para inducir el NaCl@AG(sol) sobre la superficie 2-CEA. La fibra PureAG para el estudio SEM se obtuvo mediante el secado por congelación del AG dentro del canal de resorte impreso en 3D doblado con la fibra AG cuidadosamente removida después. Anaranjado, azul y rosa AG de colores ilustrativos fueron preparados mediante la adición respectiva de cantidades de rastros de sol establecido, azul de metileno y rodamina B durante la etapa de preparación, respectivamente (con una concentración de tinte orgánico a 1,25 ppm).
 
 **2.3 Preparación de elastómeros 2-CEA impresos en 3D**
+
 2-CEA se mezcló con PEGATina 96:2wt%ratio (optimizado con la mejor combinación de fuerza y capacidad de estiramiento) y se agitó hasta 24h hasta que se mezcló completamente.2wt%TPO se añadió seguido de 72 h de agitación en la oscuridad hasta que se derivó una mezcla clara para la impresión 3D. La impresora 3D en uso fue Freeform-80DB3C Asiga Max; se prepararon modelos de diseños asistidos por computadora en Solidworks. El espesor de la capa se estableció como 100m con 8s de tiempo de irradiación para la primera capa y 4.6s para la posterior.
 
 **2.4 Fabricación de sensor portátil integrado y pruebas de rendimiento**
+
 Los electrodos Cu impresos en 3D [52] se insertaron en dos extremos del canal de elastómero inmediatamente después de la inyección de NaCl-AG (sol). Se permitió que el sensor preparado se estabiliza a temperatura ambiente durante 1 h antes de las pruebas de rendimiento. El rendimiento de estiramiento y flexión se probó utilizando nuestro probador de tracción personalizado a una velocidad de tensión de 200 mm mín.1 bajo una tensión aplicada de 1 V.
 
 **2.5 Caracterización**
@@ -44,7 +48,7 @@ Los electrodos Cu impresos en 3D [52] se insertaron en dos extremos del canal de
 Las pruebas de tracción se realizaron con las pruebas universales Lloyd Systems EZ-10 y de acuerdo con las normas ASTM para elastómeros. La transmisión de luz fue investigada usando un Espectrofotómetro 7000 UV-VIS-NIR junto a microscopio de electrones barridos. Los experimentos de reología fueron desempeñados por un reómetro híbrido de acuerdo a los métodos [13].
 La lectura de impedancia electroquímica fue capturada usando un analizador 1260A conectado a una interfaz dieléctrica para medir el rango de frecuencia desde 0.1 A 1 Mhz por debajo de una amplitud de voltaje de 0.1V y con la voltamperometría se ejecutó usando un Bio-Logic VMP3(Potenciostato) con electrodo de platino de cara paralela con separación de distancia de 1cm.
 
-**3. DISEÑO MATERIAL Y ESTRUCTURAL.
+**3. DISEÑO MATERIAL Y ESTRUCTURAL.**
 
 **3.1.1. Esquema de fabricación del sensor portátil integrado.**
 
