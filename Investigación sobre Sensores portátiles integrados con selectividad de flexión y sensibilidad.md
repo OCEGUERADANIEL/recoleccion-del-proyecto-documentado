@@ -117,4 +117,4 @@ En resumen, este trabajo presentó un nuevo sensor portátil integrado basado en
 **Apendice a datos suplemetarios**
 
 Los datos complementarios de este artículo se pueden encontrar en línea en: 
-[doi.org](https://doi.org/10.1016/j.cej.2020.124503.)
+[Science Direct](https://doi.org/10.1016/j.cej.2020.124503.)
