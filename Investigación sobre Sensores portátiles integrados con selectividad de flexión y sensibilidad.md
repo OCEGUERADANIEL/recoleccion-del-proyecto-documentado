@@ -1,5 +1,5 @@
 ### Sensores portátiles integrados con selectividad de flexión y sensibilidad mejorada para la derivación del conductor iónico
-<div style="text-align: right"> Acuña Herrera Mario Alberto - 15210506
+<div style="text-align: center"> Acuña Herrera Mario Alberto - 15210506
 Hernández Gamboa José Luis – 12210384
 Laredo Pérez Gerardo Alberto Solís - 15210558
 Oceguera Fabela Daniel - 15210541
