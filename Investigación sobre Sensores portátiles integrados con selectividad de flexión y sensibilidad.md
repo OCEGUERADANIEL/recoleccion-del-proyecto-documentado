@@ -1,14 +1,14 @@
 ### Sensores portátiles integrados con selectividad de flexión y sensibilidad mejorada para la derivación del conductor iónico
-<div style="text-align: center"> Acuña Herrera Mario Alberto - 15210506
+Acuña Herrera Mario Alberto - 15210506
 Hernández Gamboa José Luis – 12210384
 Laredo Pérez Gerardo Alberto Solís - 15210558
 Oceguera Fabela Daniel - 15210541
 Instituto Tecnológico de Tijuana, Departamento de Sistemas y Computación
 Tijuana, Baja California, México
-daniel.oceguera@tectijuana.edu.mx</div>
-
+daniel.oceguera@tectijuana.edu.mx
 
 **ABSTRAC**
+
 Multi-functional integrated sensing systems have attracted significant attentions for high demands in the areas of flexible and stretchable devices. Herein, a novel selective wearable sensor with bending/stretching force differentiation and superior signal performance is presented. NaCl doped agarose gel (NaCl@AG) is applied as the bio-compatible conductive filler with 3D printed elastomer shaper as the holding matrix for wearable sensors. AG possesses an interesting sol-gel transition property of which NaCl@AG (sol) can be shaped into various stereo-structures through 3D printed micro-channeled elastomer shapers coviniently. 3D printed microporous Copper electrodes were also introduced for enhanced bonding with the NaCl@AG for sensor robustness. Through the integration of both straight and spring channels inside one elastomer shaper, our 3D integrated wearable sensor displayed superior sensing performances as a large-strain sensor with extreme sensitivity (gauge factor of 17 at 500% strain) and capabilities of bending/stretching motion differentiations (selectivity factor of 75 for bending/stretching signals at 97° bend). It can hence simultaneously detect and classify the extent of stretching or bending motions precisely. Sensing mechanisms are found to derive from both the microscopic geometrical deformations of the NaCl@AG associated with the resistance law; and the nanoporous pore size changes of AG associated with ionic diffusions. Such performances cannot be obtained by other conductors under the same circumstances, i.e. NaCl (aq). Overall, this work introduces a new concept for high performing and multifunctional/selective sensors via the combination of bio-compatible materials and novel structural design.
 
 
