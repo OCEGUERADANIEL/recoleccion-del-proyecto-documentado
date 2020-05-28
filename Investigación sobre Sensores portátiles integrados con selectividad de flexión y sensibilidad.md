@@ -118,3 +118,22 @@ En resumen, este trabajo presentó un nuevo sensor portátil integrado basado en
 
 Los datos complementarios de este artículo se pueden encontrar en línea en: 
 [Science Direct](https://doi.org/10.1016/j.cej.2020.124503.)
+
+**Referencias**
+
+[1] M. Park, Y.J. Park, X. Chen, Y.K. Park, M.S. Kim, J.H. Ahn, MoS2-based tactile sensor for electronic skin applications, Adv. Mater. 28 (2016) 2556– 2562. 
+[2] L. Li, Y. Bai, L. Li, S. Wang, T. Zhang, A superhydrophobic smart coating for flexible and wearable sensing electronics, Adv. Mater. 29 (2017) 1702517.  
+[3] C. Li, S. Cong, Z. Tian, Y. Song, L. Yu, C. Lu, Y. Shao, J. Li, G. Zou, M.H. Rümmeli, Flexible perovskite solar cell-driven photo-rechargeable lithiumion capacitor for self-powered wearable strain sensors, Nano Energy 60 (2019) 247–256.  
+[4] D. Chung, Structural health monitoring by electrical resistance measurement, Smart Mater. Struct. 10 (2001) 624.  
+[5] M. Stoppa, A. Chiolerio, Wearable electronics and smart textiles: a critical review, Sensors 14 (2014) 11957–11992. 
+[6] K. Tian, J. Bae, S.E. Bakarich, C. Yang, R.D. Gately, G.M. Spinks M., in het Panhuis, Z. Suo, J.J. Vlassak, 3D printing of transparent and conductive heterogeneous hydrogel–elastomer systems, Adv. Mater. 29 (2017) 1604827.  
+[7] M. Abshirini, M. Charara, Y. Liu, M. Saha, M.C. Altan, 3D printing of highly stretchable strain sensors based on carbon nanotube nanocomposites, Adv. Eng. Mater. 20 (2018) 1800425.  
+[8] M. Amjadi, A. Pichitpajongkit, S. Lee, S. Ryu, I. Park, Highly stretchable and sensitive strain sensor based on silver nanowire–elastomer nanocomposite, ACS Nano 8 (2014) 5154–5163. 
+[9] J.U. Lind, T.A. Busbee, A.D. Valentine, F.S. Pasqualini, H. Yuan, M. Yadid, S.- J. Park, A. Kotikian, A.P. Nesmith, P.H. Campbell, Instrumented cardiac microphysiological devices via multimaterial three-dimensional printing, Nat. Mater. 16 (2017) 303.  
+[10] J. Christ, N. Aliheidari, P. Pötschke, A. Ameli, Bidirectional and stretchable piezoresistive sensors enabled by multimaterial 3D printing of carbon nanotube/ thermoplastic polyurethane nanocomposites, Polymers 11 (2019) 11. 
+[11] J.F. Christ, N. Aliheidari, A. Ameli, P. Pötschke, 3D printed highly elastic strain sensors of multiwalled carbon nanotube/thermoplastic polyurethane nanocomposites, Mater. Des. 131 (2017) 394–401.  
+[12] F. Zhu, J. Lin, Z.L. Wu, S. Qu, J. Yin, J. Qian, Q. Zheng, Tough and conductive hybrid hydrogels enabling facile patterning, ACS Appl. Mater. Interfaces 10 (2018) 13685–13692. 
+[13] S. Liu, L. Li, Ultrastretchable and self-healing double-network hydrogel for 3D printing and strain sensor, ACS Appl. Mater. Interfaces 9 (2017) 26429–26437.  
+[14] Y. Han, W.F. Lu, Structural design of wearable electronics suitable for highlystretched joint areas, Smart Mater. Struct. 27 (2018) 105042. 
+[15] S. Ryu, P. Lee, J.B. Chou, R. Xu, R. Zhao, A.J. Hart, S.-G. Kim, Extremely elastic wearable carbon nanotube fiber strain sensor for monitoring of human motion, ACS Nano 9 (2015) 5929–5936.  
+[16] X. Su, X. Li, C.Y.A. Ong, T.S. Herng, Y. Wang, E. Peng, J. Ding, Metallization of 3D printed polymers and their application as a fully functional water-splitting system, Adv. Sci. 6 (2019) 1801670.  
