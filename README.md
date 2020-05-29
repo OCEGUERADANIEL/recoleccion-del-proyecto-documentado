@@ -11,3 +11,7 @@ Sensores-portátiles-integrados-con-selectividad-de-flexión-y-sensibilidad-mejo
 
 
 **Imagenes:** del 1-6 
+
+
+**Enlace del Video donde nos organizamos con las minutas:**
+https://drive.google.com/file/d/1GuTGUHGx3iCzLzFTLH4ganS2rbfsHsEZ/view?usp=sharing
